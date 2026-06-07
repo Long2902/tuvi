@@ -1,0 +1,32 @@
+{
+  "name": "ziwei-doushu-viet-hoa",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Bản Việt hóa deployable của Zi Wei Dou Shu - Next.js + iztro + API route nội bộ.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1",
+    "@vercel/speed-insights": "^2.0.0",
+    "clsx": "^2.1.1",
+    "html2canvas": "^1.4.1",
+    "iztro": "^2.5.8",
+    "lunar-javascript": "^1.7.3",
+    "next": "^15.5.15",
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.17",
+    "typescript": "^5.7.2"
+  }
+}
